@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "ec300af9b33f092c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b27354ce306680da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aa63160a5491ed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISEG/2-笔记/每日笔记/2025-02-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-02"
+            }
+          },
+          {
+            "id": "06fd95588edbb608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VirtualMe应用场景构建.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VirtualMe应用场景构建"
+            }
+          },
+          {
+            "id": "013b44aed10a6e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISEG/2-笔记/每日笔记/2025-01-07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-07"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7550fcffa24425b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c78a3a615763d43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba54bc48e56a3f97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "485538d210c6901c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "35208a3696d23a90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ae997c4c404f6754",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c492c639f5cfda6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4123504a1fb61b01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.canvas",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 的反向链接列表"
+            }
+          },
+          {
+            "id": "7c72607170cbe3c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "82e4283169e03127",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "468eb149a42c9b42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "本周进展0205.md"
+              },
+              "icon": "lucide-list",
+              "title": "本周进展0205 的大纲"
+            }
+          },
+          {
+            "id": "b9db22d0f0fcdc69",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "013b44aed10a6e3e",
+  "lastOpenFiles": [
+    "ISEG/2-笔记/每日笔记/2025-02-02.md",
+    "RepoCal.md",
+    "本周进展0205.md",
+    "VirtualMe应用场景构建.md",
+    "attachments/Pasted image 20250204183905.png",
+    "寒假课程规划【数学、物理】.md",
+    "主机DIY 😋.md",
+    "ISEG/2-笔记/每日笔记/笔记.md",
+    "ISEG/2-笔记/每日笔记/2024-12-06.md",
+    "ISEG/2-笔记/每日笔记/2024-12-05.md",
+    "其它/git学习.md",
+    "其它/威尔逊主义.md",
+    "其它/华为工作交接.md",
+    "ISEG/3-调研/2025华为AI辅助研发Next讨论会.md",
+    "ISEG/3-调研/PMAI调研.pdf",
+    "ISEG/3-调研/鸿蒙原生应用工程级代码生成调研.md",
+    "ISEG/3-调研/华为调研+场景-10.22.md",
+    "ISEG/2-笔记/每日笔记/2025-01-31.md",
+    "ISEG/2-笔记/每日笔记/2024-12-17.md",
+    "ISEG/2-笔记/每日笔记/2024-12-9.md",
+    "ISEG/2-笔记/每日笔记/2024-12-10.md",
+    "ISEG/2-笔记/每日笔记/2024-12-12.md",
+    "ISEG/2-笔记/每日笔记/2024-12-24.md",
+    "ISEG/2-笔记/每日笔记/2024-12-28.md",
+    "ISEG/2-笔记/每日笔记/2025-01-01.md",
+    "ISEG/2-笔记/每日笔记/2025-01-06.md",
+    "ISEG/2-笔记/每日笔记/2025-01-07.md",
+    "attachments/Pasted image 20250130212810.png",
+    "attachments/8071738240895_.pic.jpg",
+    "attachments/8061738240894_.pic.jpg",
+    "attachments/Pasted image 20250130203523.png",
+    "attachments/8041738240425_.pic.jpg",
+    "attachments/8021738233834_.pic.jpg",
+    "attachments/8011738233833_.pic.jpg",
+    "attachments/8001738233832_.pic.jpg",
+    "attachments/Pasted image 20250130183805.png",
+    "ISEG/2-笔记/组会",
+    "ISEG/2-笔记/每日笔记/attachments",
+    "attachments",
+    "ISEG/2-笔记/attachments",
+    "ISEG/2-笔记/每日笔记",
+    "ISEG/2-笔记",
+    "ISEG/4-评审",
+    "ISEG/3-调研",
+    "未命名",
+    "未命名.canvas"
+  ]
+}
