@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISEG/2-笔记/每日笔记/2025-01-07.md",
+                "file": "ISEG/2-笔记/每日笔记/2025-02-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-07"
+              "title": "2025-02-15"
             }
           }
         ],
@@ -69,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -202,15 +203,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "013b44aed10a6e3e",
+  "active": "ba54bc48e56a3f97",
   "lastOpenFiles": [
+    "ISEG/2-笔记/每日笔记/2025-02-13.md",
+    "ISEG/2-笔记/每日笔记/2025-02-15.md",
+    "ISEG/2-笔记/每日笔记/attachments/Pasted image 20250213142135.png",
+    "ISEG/2-笔记/每日笔记/attachments/Pasted image 20250213141755.png",
+    "ISEG/2-笔记/每日笔记/attachments/Pasted image 20250213141622.png",
+    "ISEG/2-笔记/每日笔记/attachments/Pasted image 20250213110828.png",
     "ISEG/2-笔记/每日笔记/2025-02-02.md",
-    "RepoCal.md",
-    "本周进展0205.md",
-    "VirtualMe应用场景构建.md",
-    "attachments/Pasted image 20250204183905.png",
     "寒假课程规划【数学、物理】.md",
     "主机DIY 😋.md",
+    "ISEG/2-笔记/VSCode.md",
+    "ISEG/2-笔记/常用操作.md",
+    "ISEG/2-笔记/每日笔记/2025-02-10.md",
+    "ISEG/2-笔记/每日笔记/2025-01-07.md",
+    "ISEG/2-笔记/组会/RepoCal.md",
+    "ISEG/2-笔记/组会/本周进展0205.md",
+    "ISEG/2-笔记/组会/VirtualMe应用场景构建.md",
+    "attachments/Pasted image 20250204183905.png",
     "ISEG/2-笔记/每日笔记/笔记.md",
     "ISEG/2-笔记/每日笔记/2024-12-06.md",
     "ISEG/2-笔记/每日笔记/2024-12-05.md",
@@ -226,20 +237,11 @@
     "ISEG/2-笔记/每日笔记/2024-12-9.md",
     "ISEG/2-笔记/每日笔记/2024-12-10.md",
     "ISEG/2-笔记/每日笔记/2024-12-12.md",
-    "ISEG/2-笔记/每日笔记/2024-12-24.md",
-    "ISEG/2-笔记/每日笔记/2024-12-28.md",
-    "ISEG/2-笔记/每日笔记/2025-01-01.md",
-    "ISEG/2-笔记/每日笔记/2025-01-06.md",
-    "ISEG/2-笔记/每日笔记/2025-01-07.md",
     "attachments/Pasted image 20250130212810.png",
     "attachments/8071738240895_.pic.jpg",
     "attachments/8061738240894_.pic.jpg",
     "attachments/Pasted image 20250130203523.png",
     "attachments/8041738240425_.pic.jpg",
-    "attachments/8021738233834_.pic.jpg",
-    "attachments/8011738233833_.pic.jpg",
-    "attachments/8001738233832_.pic.jpg",
-    "attachments/Pasted image 20250130183805.png",
     "ISEG/2-笔记/组会",
     "ISEG/2-笔记/每日笔记/attachments",
     "attachments",
