@@ -4,53 +4,235 @@
     "type": "split",
     "children": [
       {
-        "id": "b27354ce306680da",
+        "id": "210f3ae5247945f3",
         "type": "tabs",
         "children": [
           {
-            "id": "5aa63160a5491ed6",
+            "id": "849cef59700c65d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISEG/2-笔记/每日笔记/2025-02-02.md",
+                "file": "模型模块化/SeaM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-02"
+              "title": "SeaM"
             }
           },
           {
-            "id": "06fd95588edbb608",
+            "id": "c40dbee2454c6ba8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VirtualMe应用场景构建.md",
+                "file": "2025-03-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VirtualMe应用场景构建"
+              "title": "2025-03-09"
             }
           },
           {
-            "id": "013b44aed10a6e3e",
+            "id": "cb28e30d993a1bd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISEG/2-笔记/每日笔记/2025-02-15.md",
+                "file": "2025-03-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-15"
+              "title": "2025-03-31"
+            }
+          },
+          {
+            "id": "58125cfff551248c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "论文笔记"
+            }
+          },
+          {
+            "id": "31cd30ee60dab75b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "缺勤情况说明.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "缺勤情况说明"
+            }
+          },
+          {
+            "id": "544ca20a3b97c3cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "待办.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "待办"
+            }
+          },
+          {
+            "id": "df0221ffbeb4b074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISEG/1-论文/Test-Case-Driven Programming Understanding in Large Language Models for Better Code Generation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test-Case-Driven Programming Understanding in Large Language Models for Better Code Generation"
+            }
+          },
+          {
+            "id": "705a831b8c74ce5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISEG/3-调研/AI IDE 调研.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI IDE 调研"
+            }
+          },
+          {
+            "id": "64acc972da38270c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 1"
+            }
+          },
+          {
+            "id": "1b69f335b476642a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 2"
+            }
+          },
+          {
+            "id": "61483e4a7fd2815b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 3"
+            }
+          },
+          {
+            "id": "19b08bfdf471fed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 3"
+            }
+          },
+          {
+            "id": "aa0f72fa527a4b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 4"
+            }
+          },
+          {
+            "id": "c21781296114f68f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Best paper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Best paper"
+            }
+          },
+          {
+            "id": "2252d51e30df6c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Best paper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Best paper"
+            }
+          },
+          {
+            "id": "4c3816e42d7425ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ISEG/4-评审/ASE 审稿.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASE 审稿"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -169,10 +351,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本周进展0205.md"
+                "file": "ISEG/4-评审/ASE 审稿.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "本周进展0205 的大纲"
+              "title": "ASE 审稿 的大纲"
             }
           },
           {
@@ -203,54 +388,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba54bc48e56a3f97",
+  "active": "4c3816e42d7425ec",
   "lastOpenFiles": [
-    "ISEG/2-笔记/每日笔记/2025-02-13.md",
-    "ISEG/2-笔记/每日笔记/2025-02-15.md",
-    "ISEG/2-笔记/每日笔记/attachments/Pasted image 20250213142135.png",
-    "ISEG/2-笔记/每日笔记/attachments/Pasted image 20250213141755.png",
-    "ISEG/2-笔记/每日笔记/attachments/Pasted image 20250213141622.png",
-    "ISEG/2-笔记/每日笔记/attachments/Pasted image 20250213110828.png",
-    "ISEG/2-笔记/每日笔记/2025-02-02.md",
-    "寒假课程规划【数学、物理】.md",
-    "主机DIY 😋.md",
-    "ISEG/2-笔记/VSCode.md",
-    "ISEG/2-笔记/常用操作.md",
-    "ISEG/2-笔记/每日笔记/2025-02-10.md",
-    "ISEG/2-笔记/每日笔记/2025-01-07.md",
-    "ISEG/2-笔记/组会/RepoCal.md",
-    "ISEG/2-笔记/组会/本周进展0205.md",
-    "ISEG/2-笔记/组会/VirtualMe应用场景构建.md",
-    "attachments/Pasted image 20250204183905.png",
-    "ISEG/2-笔记/每日笔记/笔记.md",
-    "ISEG/2-笔记/每日笔记/2024-12-06.md",
-    "ISEG/2-笔记/每日笔记/2024-12-05.md",
-    "其它/git学习.md",
-    "其它/威尔逊主义.md",
-    "其它/华为工作交接.md",
-    "ISEG/3-调研/2025华为AI辅助研发Next讨论会.md",
-    "ISEG/3-调研/PMAI调研.pdf",
+    "未命名 4.md",
+    "未命名 3.md",
+    "未命名 2.md",
+    "未命名 1.md",
+    "ISEG/5-其它/待办.md",
+    "ISEG/5-其它/缺勤情况说明.md",
+    "ISEG/2-笔记/华为会议.md",
+    "ISEG/3-调研/论文笔记.md",
+    "ISEG/3-调研/领域地图.md",
+    "ISEG/4-评审/ASE 审稿.md",
+    "ISEG/5-其它",
+    "Best paper.md",
+    "FSE笔记.md",
+    "未命名",
+    "attachments/Pasted image 20250618170747.png",
+    "ISEG/2-笔记/每日笔记/2025-03-09.md",
+    "ISEG/2-笔记/每日笔记/2025-03-31.md",
+    "ISEG/3-调研/AI IDE 调研.md",
     "ISEG/3-调研/鸿蒙原生应用工程级代码生成调研.md",
-    "ISEG/3-调研/华为调研+场景-10.22.md",
-    "ISEG/2-笔记/每日笔记/2025-01-31.md",
-    "ISEG/2-笔记/每日笔记/2024-12-17.md",
-    "ISEG/2-笔记/每日笔记/2024-12-9.md",
-    "ISEG/2-笔记/每日笔记/2024-12-10.md",
-    "ISEG/2-笔记/每日笔记/2024-12-12.md",
-    "attachments/Pasted image 20250130212810.png",
-    "attachments/8071738240895_.pic.jpg",
-    "attachments/8061738240894_.pic.jpg",
-    "attachments/Pasted image 20250130203523.png",
-    "attachments/8041738240425_.pic.jpg",
+    "ISEG/3-调研/2025华为AI辅助研发Next讨论会.md",
+    "ISEG/1-论文/Understanding Coding Behavior——An Incremental Process Mining Approach.md",
+    "ISEG/1-论文/Test-Case-Driven Programming Understanding in Large Language Models for Better Code Generation.md",
+    "attachments/Pasted image 20250513190605.png",
+    "attachments/Pasted image 20250513190102.png",
+    "attachments/Pasted image 20250430145634.png",
+    "attachments/Pasted image 20250430144750.png",
+    "attachments/Pasted image 20250430140550.png",
+    "attachments/Pasted image 20250430140340.png",
+    "attachments/Pasted image 20250430140337.png",
+    "attachments/Pasted image 20250309161050.png",
+    "attachments/Pasted image 20250309160715.png",
+    "模型模块化/SeaM.md",
+    "模型模块化/模型模块化.md",
+    "模型模块化/面向模型复用的神经网络模块化技术研究.md",
+    "ISEG/2-笔记/每日笔记/2025-02-27.md",
+    "其它/华为工作交接.md",
+    "ISEG/2-笔记/每日笔记/2025-02-21.md",
+    "ISEG/3-调研/attachments",
+    "ISEG/3-调研/PMAI调研.pdf",
     "ISEG/2-笔记/组会",
     "ISEG/2-笔记/每日笔记/attachments",
     "attachments",
     "ISEG/2-笔记/attachments",
     "ISEG/2-笔记/每日笔记",
     "ISEG/2-笔记",
-    "ISEG/4-评审",
-    "ISEG/3-调研",
-    "未命名",
     "未命名.canvas"
   ]
 }
